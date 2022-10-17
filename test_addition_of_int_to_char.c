@@ -10,6 +10,6 @@ int main(void)
     printf("The sum of a and b is %d\n", a+b); /* displat the result of the summation as a formated string */
 
     printf("The value of a is %d\n", a);
-    printf("The value of b is %d\n", b);
+    printf("The value of b is %c\n", b); /* note that the %c converter is used to display character */
 
 }/* end of main function */
