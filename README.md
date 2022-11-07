@@ -1,7 +1,7 @@
 # Learning C
 
-this is repo containing small code snippets written to explain basic programming
-concepts with c programming language
+# Description
+this is repo contains structure and curated code snippets an well documented C source codes written to explain basic c programming concepts.
 
 ## Usage
 - Any and all code improvements are whole-heartedly accepted
