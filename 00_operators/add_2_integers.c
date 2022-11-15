@@ -15,7 +15,7 @@ int main(void)
     printf("Enter the second Integer:\n"); //prompt
     scanf("%d", &integer2); // read the second integer
 
-    int sum = integer1 + integer2; // assign total to sum
+    int sum = integer1 + integer2; // assign the value of the total expression to sum
     printf("Sum is %d\n", sum);
 
 }// end of the main function
