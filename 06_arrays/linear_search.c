@@ -32,7 +32,11 @@ size_t linearSearch(const int array[], int key, size_t size)
 {
     size_t index;
 
+    for (index = 0; index < size; ++index)
+    {
+        if (key == array[index])
+            return (index);
+    }
 
-
-    return (index);
+    return (-1);
 }
