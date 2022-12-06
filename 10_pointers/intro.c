@@ -6,9 +6,12 @@
 int main(void)
 {
     int number = 98;
-    int *ptr = NULL;
+    int *ptr = NULL; // a pointer is declared and initialized to NULL (this is safe practice for pointers)
+    // that are not assigned a value on declaration
 
-    ptr = &number;
+    ptr = &number; // the address operation is used on the number obj to get its address and 
+    // the ptr obj is assinged to the address value
+    
     printf("The Value of ptr is %p\n", ptr);
     printf("The Value of number is %d\n", number);
     printf("______________________________________\n");
