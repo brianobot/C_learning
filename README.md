@@ -1,7 +1,7 @@
 # Learning C
 
 # Description
-This repository contains structured and curated code snippets an well documented C source codes written to explain basic c programming concepts. This is a memo of my journey learning and developing with the C programming language.
+This repository contains structured and curated code snippets and well documented C source codes written to explain basic c programming concepts. This is a memo of my journey learning and developing with the C programming language.
 
 The choice of the Repo curated structure is highly opinated, i structured them this way because intuitively it felt proper to learn in this progression, with subsequent concepts building more on previous ones. if you do intend to use this repo and or any of it content as a reference material, it is highly likely that the structure would not matter much to you,as you could just move into folders containing the concept you wish to look at. but for people looking to use it as learning material, following the assumed progression would better aid your learning process and progress. 
 
