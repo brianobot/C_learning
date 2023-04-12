@@ -1,5 +1,7 @@
 # Learning C
 
+<img src="c-programming.cms" width="100%" height="70%">
+
 # Description
 This repository contains structured and curated code snippets an well documented C source codes written to explain basic c programming concepts. This is a memo of my journey learning and developing with the C programming language.
 
@@ -12,7 +14,7 @@ The choice of the Repo curated structure is highly opinated, i structured them t
 - Any Attribution to the repo is also welcomed
 
 ## NOTE:
-since most of the codes here were written as a result of learning and praticing with concepts and ideas in the c programming language ecosystem, some code are not so-efficient and may not be an appropriate option for practical applications and solutions.
+Since most of the codes here were written as a result of learning and praticing with concepts and ideas in the c programming language ecosystem, some code are not so-efficient and may not be an appropriate option for practical applications and solutions.
 
 Constructive approach are welcomed to request edition and suggest changes to the code found in this repo. 
 
