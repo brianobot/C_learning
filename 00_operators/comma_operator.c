@@ -2,9 +2,15 @@
 #include <stdio.h>
 
 /* function main starts program execution */
-int main(void)
+int main()
 {
-    int a;
-    a = 89, 1336;
-    printf("%d\n", a);
+    int a, b, c;
+
+    a = (b = 5, c = 10);
+
+    printf("a = %d\n", a);
+    printf("b = %d\n", b);
+    printf("c = %d\n", c);
+
+    return 0;
 }
